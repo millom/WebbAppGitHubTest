@@ -17,7 +17,7 @@ namespace WebApplication1_GithubTest.Controllers
     {
         private ApplicationSignInManager _signInManager;
         private ApplicationUserManager _userManager;
-		// Test
+		// Test. Lite mer text.
 
         public AccountController()
         {
